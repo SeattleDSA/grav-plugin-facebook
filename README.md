@@ -1,4 +1,4 @@
-# Grav Facebook Plugin
+# Grav Facebook Plugin (DSA Fork)
 
 `Facebook` is a simple [Grav][grav] Plugin that includes your Facebook page content to your Grav website. Plugin can be used to get any public Facebook page content.
 
@@ -58,38 +58,6 @@ If you need to override some plugin default values, the best practise is to copy
 
 Facebook *page_id* can be found with service like [Find your Facebook ID](http://findmyfbid.com/).
 
-# Getting Facebook Posts
-
-You simply need to include a function your template file such as:
-
-```
-{{ facebook_posts() }}
-```
-
-This will be converted into your Facebook posts as follows:
-
-```
-<div id='facebook-posts'>
-{{ sectionTitle }}
-  <div class='facebook-post'>
-    <a href='{{ post.link }}' title='Facebook post'>
-    <i class="fa fa-envelope post-icon" aria-hidden='true'></i><h4 class='media-heading'>{{ post.time }}</h4>
-    <p>{{ post.message }}</p>
-    {{ post.image }}
-    </a>
-  </div>
-  ...
-</div>
-```
-
-## Filtering by tags
-
-You can filter Facebook posts by tags function parameter or with config parameter *Tag filter*.
-
-```
-{{ facebook_posts('#MySpecialTag') }}
-```
-
 # Getting Facebook Events
 
 You simply need to include a function your template file such as:
@@ -118,34 +86,3 @@ This will be converted into your Facebook events as follows:
 </table>
 </div>
 ```
-
-# Getting Facebook Album
-
-You simply need to include a function your template file such as:
-
-```
-{{ facebook_album() }}
-```
-
-In the above 'album.name' is set at plugin configuration.
-Or you can give album name as function parameter like this:
-
-```
-{{ facebook_album('My Greatest Album') }}
-```
-
-This will be converted into your Facebook album as follows:
-
-```
-<div id='facebook-gallery'>
-<h5>Album: {{ album.name }}</h5>
-<div id='facebook-gallery-photos'>
-    <img src="{{ photo.source }}" width=300 height=200/>
-    ...
-</div>
-</div>
-```
-
-## The Unitegallery jQuery plugin
-
-[Unite gallery](http://unitegallery.net/) can be used to display album photos and its theme can be set from the plugin configuration.

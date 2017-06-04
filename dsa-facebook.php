@@ -7,7 +7,7 @@ use Grav\Common\Page\Page;
 use Grav\Common\GPM\Response;
 use \DateTime;
 
-class FacebookPlugin extends Plugin {
+class DSAFacebookPlugin extends Plugin {
 
     private $template_post_html = 'partials/facebook.post.html.twig';
     private $template_event_html = 'partials/facebook.event.html.twig';
