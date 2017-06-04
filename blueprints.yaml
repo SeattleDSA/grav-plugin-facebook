@@ -1,14 +1,14 @@
-name: Facebook
+name: DSA Facebook
 version: 1.5.0
 description: "**Facebook** is a plugin that embeds Facebook page content, album or events into your Grav website."
 icon: facebook
 author:
-  name: Mika Hänninen
+  name: Seattle DSA fork of Mika Hänninen
   email: mika.hanninen@gmail.com
-homepage: https://github.com/mikahanninen/grav-plugin-facebook
+homepage: https://github.com/seattledsa/grav-plugin-facebook
 keywords: facebook
-bugs: https://github.com/mikahanninen/grav-plugin-facebook/issues
-docs: https://github.com/mikahanninen/grav-plugin-facebook/blob/master/README.md
+bugs: https://github.com/seattledsa/grav-plugin-facebook/issues
+docs: https://github.com/seattledsa/grav-plugin-facebook/blob/master/README.md
 license: MIT
 
 form:
