@@ -178,8 +178,8 @@ class DSAFacebookPlugin extends Plugin {
 
         foreach ($content->feed->data as $val) {
             if (property_exists($val, 'message') && $this->tagsExist($tags_string, $val->message)) {
-                $created_at = $val->created_time;
-                $created_date_object = date_create($created_at);
+                $start_time = $val->start_time;
+                $created_date_object = date_create($start_time);
                 $formatted_date =
                     date_format($created_date_object,
                         $config->get('facebook_page_settings.date_format'));
@@ -194,11 +194,11 @@ class DSAFacebookPlugin extends Plugin {
                     $image_html .= "</figure>";
                 }
 
-                $r[$created_at]['time'] = $formatted_date;
-                $r[$created_at]['image'] = $image_html;
-                $r[$created_at]['imageSrc'] = $imageSrc;
-                $r[$created_at]['message'] = nl2br($val->message);
-                $r[$created_at]['link'] = $val->permalink_url;
+                $r[$start_time]['time'] = $formatted_date;
+                $r[$start_time]['image'] = $image_html;
+                $r[$start_time]['imageSrc'] = $imageSrc;
+                $r[$start_time]['message'] = nl2br($val->message);
+                $r[$start_time]['link'] = $val->permalink_url;
                 $this->addFeed($r);
             }
         }
