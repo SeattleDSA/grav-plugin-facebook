@@ -1,0 +1,227 @@
+{
+   "data": [
+      {
+         "cover": {
+            "cover_id": "1439608732765315",
+            "offset_x": 0,
+            "offset_y": 0,
+            "source": "https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/18768236_1439608732765315_8944192187842777908_o.png?oh=f94b12ebbbd168390fd672d129b5e218&oe=59A74EC2",
+            "id": "1439608732765315"
+         },
+         "start_time": "2017-06-24T16:00:00-0700",
+         "end_time": "2017-06-24T19:00:00-0700",
+         "name": "Seattle DSA Happy Hour",
+         "description": "Do you want to learn more about socialism without attending a lecture? Are you looking to get more active in your community to help protect those who are going to be the most affected by Trump's regressive policies? Are you curious about what the Democratic Socialists of America are all about? Or do you simply want to spend some time with likeminded leftists over a pint or two?\n\nIf the answer to any of these questions is 'yes', you should come hang out with us at our monthly DSA social. Seattle DSA members will be there to introduce themselves and chat about life, leisure, and politics. Bring questions, or simply grab a bite and relax - socialism should be social, and we want to socialize with you. Big Time Brewery is kid friendly until 8pm, little ones welcome!",
+         "place": {
+            "name": "Big Time Brewery & Alehouse",
+            "location": {
+               "city": "Seattle",
+               "country": "United States",
+               "latitude": 47.65784,
+               "longitude": -122.31354,
+               "state": "WA",
+               "street": "4133 University Way NE",
+               "zip": "98105"
+            },
+            "id": "138251856236808"
+         },
+         "id": "163721370831277"
+      },
+      {
+         "cover": {
+            "cover_id": "1551666374875963",
+            "offset_x": 0,
+            "offset_y": 52,
+            "source": "https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/18891745_1551666374875963_3131535556488740874_o.png?oh=d843faa9ca49166295ea6161fa99f90e&oe=59EA71D3",
+            "id": "1551666374875963"
+         },
+         "start_time": "2017-06-18T13:00:00-0700",
+         "end_time": "2017-06-18T15:30:00-0700",
+         "name": "DSA Seattle Eastside June Get-Together",
+         "description": "Hello Comrades!\n\nWe'll be having our next get-together on June 18th at Victor's Celtic Coffee in Redmond. Since our last meeting was organizational in nature, we'll be having a casual meet-and-greet this time around. Come by and meet your fellow Democratic Socialists!\n\nThis get-together is open to members of the Democratic Socialists of America, non-members who are interested in learning more about the group, and anyone else who'd like to get acquainted with the DSA and its activities. Bring a friend or two who might like to learn more about the group, or who would just like to spend some time with like-minded people in a relaxed environment.\n\nInformational material about the DSA and Democratic Socialism will be available.",
+         "place": {
+            "name": "Victor's Celtic Coffee Co",
+            "location": {
+               "city": "Redmond",
+               "country": "United States",
+               "latitude": 47.67451,
+               "longitude": -122.12197,
+               "state": "WA",
+               "street": "7993 Gilman St",
+               "zip": "98052"
+            },
+            "id": "528378507228007"
+         },
+         "id": "1966397940259365"
+      },
+      {
+         "cover": {
+            "cover_id": "1423365144389674",
+            "offset_x": 0,
+            "offset_y": 50,
+            "source": "https://scontent.xx.fbcdn.net/v/t31.0-8/q81/s720x720/18423144_1423365144389674_4266700232038975404_o.jpg?oh=42020456be56ea36293638dd8d4b4e2d&oe=59A25F32",
+            "id": "1423365144389674"
+         },
+         "start_time": "2017-06-17T13:30:00-0700",
+         "end_time": "2017-06-17T15:00:00-0700",
+         "name": "ABC's of Socialism Reading Group",
+         "description": "Learning about socialism is key to practicing socialism, and learning is always more fun with friends! \n\nThis month, we'll be reading chapters 7-9 of Jacobin\u2019s ABC\u2019s of Socialism book. Read the chapters before you arrive, bring any questions you may have, and be ready for a fun and friendly discussion.\n\nYou can purchase a hard copy from the Jacobin website (https://www.jacobinmag.com/the-abcs-of-socialism/ - be warned, Jacobin is a bit backed up and shipments are taking a little longer than expected), or download the free PDF: https://s3.jacobinmag.com/issues/jacobin-abcs.pdf",
+         "place": {
+            "name": "Capitol Hill Branch of The Seattle Public Library",
+            "location": {
+               "city": "Seattle",
+               "country": "United States",
+               "latitude": 47.62283,
+               "longitude": -122.32224,
+               "state": "WA",
+               "street": "425 Harvard Ave E",
+               "zip": "98102"
+            },
+            "id": "116610801728605"
+         },
+         "id": "524890594567643"
+      },
+      {
+         "cover": {
+            "cover_id": "1345442125505581",
+            "offset_x": 50,
+            "offset_y": 0,
+            "source": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18814090_1345442125505581_1695256758308582423_n.jpg?oh=82ac8eed881ce8829d8ad1ad5809f5a3&oe=59A2233A",
+            "id": "1345442125505581"
+         },
+         "start_time": "2017-06-14T17:00:00-0700",
+         "end_time": "2017-06-14T20:00:00-0700",
+         "name": "Pack City Hall for a Seattle Progressive Income Tax!",
+         "description": "**Note change of date and time**\n\nOn the evening of Wednesday, June 14th, there will be a special committee meeting and public hearing to discuss a Seattle progressive income tax ordinance!\n\nCouncilmembers' discussion of the legislation will start at 5:00 PM. The public hearing will follow. You may want to arrive early to sign up to testify.\n\nNow that we're finally getting to the specifics of legislation to tax Seattle's wealthiest households, we will see where our elected officials really stand.\n\nLet's pack City Hall on June 14th to show our councilmembers that Seattle residents want our city to take the lead in challenging our upside-down tax system, raising new revenue to protect against Trump budget cuts and to make Seattle a city for everyone, not just for the rich!\n\nHelp us keep this train on track for victory by July 10th!\n\ntrumpproofseattle.org",
+         "place": {
+            "name": "Seattle City Hall",
+            "location": {
+               "city": "Seattle",
+               "country": "United States",
+               "latitude": 47.6051,
+               "longitude": -122.33,
+               "state": "WA",
+               "street": "600 4th Ave",
+               "zip": "98104"
+            },
+            "id": "111256662258810"
+         },
+         "id": "141393676406442"
+      },
+      {
+         "cover": {
+            "cover_id": "1437783616281160",
+            "offset_x": 0,
+            "offset_y": 0,
+            "source": "https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/18768267_1437783616281160_6644290720457369211_o.jpg?oh=9d13822197943921bc615dd3c79029f0&oe=59A698D1",
+            "id": "1437783616281160"
+         },
+         "start_time": "2017-06-11T10:00:00-0700",
+         "end_time": "2017-06-11T15:00:00-0700",
+         "name": "Jon Grant Day of Action",
+         "description": "Hey folks! \n \nSeattle DSA is excited to organize a Day of Action for fellow democratic socialist City Council candidate Jon Grant. \n\nJon\u2019s campaign will provide a hour-long training on best practices for door canvassing and then we\u2019ll hit the doors to get Jon Grant elected!\n\nInterested in joining? \n\nFill out this form: https://goo.gl/forms/7pA8t1MibHoLYgPY2\n\nQuestions? \n\nDM us!\n\nDo you have democracy vouchers for the campaign? \n\nBring them along!",
+         "id": "431643793886671"
+      },
+      {
+         "cover": {
+            "cover_id": "1348736698509457",
+            "offset_x": 50,
+            "offset_y": 0,
+            "source": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18835885_1348736698509457_5967198184108164500_n.jpg?oh=25fcb8cc0de9255cf0e76a4c00a7965b&oe=59E09DF1",
+            "id": "1348736698509457"
+         },
+         "start_time": "2017-06-07T17:30:00-0700",
+         "end_time": "2017-06-07T20:00:00-0700",
+         "name": "Happy Hour for Tax Justice!",
+         "description": "So, our progressive income tax ordinance is very close to being ready to go live! The Trump-Proof Seattle Coalition, councilmembers, economists, lawyers, and city staff have all been hard at work. We expect the ordinance to be introduced in time for a special committee meeting and public hearing on the evening of the 14th.\n\nBut this week, there are no council meetings to mobilize for. So let's have a beer instead!\n\nCome on out to the Owl 'n Thistle Pub near Pioneer Square on Wednesday evening to hang out with great people who care about tax justice. Around 6:30 or 7:00 there will be an update on the progress of the ordinance and what's in store between now and July 10th, the target date for the final city council vote.\n\nhttps://trumpproofseattle.org/",
+         "id": "684312565086602"
+      },
+      {
+         "cover": {
+            "cover_id": "1432894933436695",
+            "offset_x": 0,
+            "offset_y": 50,
+            "source": "https://scontent.xx.fbcdn.net/v/t1.0-9/18664302_1432894933436695_2954054927049199116_n.jpg?oh=3dcef46def9f407b5e019a70a74f1a7d&oe=599DE0FD",
+            "id": "1432894933436695"
+         },
+         "start_time": "2017-06-03T11:00:00-0700",
+         "end_time": "2017-06-03T13:00:00-0700",
+         "name": "Jacobin Reading Group June Discussion",
+         "description": "We will be reading the following articles:\n\nThe Empire\u2019s Amnesia p. 35\n-An interview with Greg Grandin about the historical relationship between the U.S. and Latin America\n\nDown, But Not Out p. 55\n-The Latin American left was on life-support in 1990. A decade later, it was in power\n-Examines neoliberal entrenchment in Latin America, the Pink Tide response, and the current state of affairs",
+         "place": {
+            "name": "Montlake Branch of The Seattle Public Library",
+            "location": {
+               "city": "Seattle",
+               "country": "United States",
+               "latitude": 47.64042,
+               "longitude": -122.30236,
+               "state": "WA",
+               "street": "2401 24th Ave E",
+               "zip": "98112"
+            },
+            "id": "227323150612329"
+         },
+         "id": "1372222479493698"
+      },
+      {
+         "cover": {
+            "cover_id": "1423361707723351",
+            "offset_x": 0,
+            "offset_y": 50,
+            "source": "https://scontent.xx.fbcdn.net/v/t31.0-8/q81/s720x720/18449341_1423361707723351_568743766433922241_o.jpg?oh=434dd0c38dbed7754469af9f09b2575b&oe=59AE5CBF",
+            "id": "1423361707723351"
+         },
+         "start_time": "2017-06-01T19:00:00-0700",
+         "end_time": "2017-06-01T21:00:00-0700",
+         "name": "Seattle DSA Monthly General Meeting",
+         "description": "Everyone is welcome to join us at our general monthly Seattle DSA meeting! We'll discuss relevant local issues, opportunities for activism, and other pertinent topics. Whether you're a paid dues member or a first-timer, our general meeting is a great place to find out where the Seattle DSA is currently at and where we're headed.",
+         "place": {
+            "name": "Washington Hall",
+            "location": {
+               "city": "Seattle",
+               "country": "United States",
+               "latitude": 47.60292,
+               "longitude": -122.3146,
+               "state": "WA",
+               "street": "153 14th Ave",
+               "zip": "98122"
+            },
+            "id": "106976746003355"
+         },
+         "id": "282470338879535"
+      },
+      {
+         "cover": {
+            "cover_id": "1335557059827421",
+            "offset_x": 50,
+            "offset_y": 0,
+            "source": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18528028_1335557059827421_6268270318649298393_n.jpg?oh=58f157ccc09ce13b827a618fe1e10a1f&oe=59AA7542",
+            "id": "1335557059827421"
+         },
+         "start_time": "2017-05-31T08:30:00-0700",
+         "end_time": "2017-05-31T11:00:00-0700",
+         "name": "Pack City Hall: First Hearing on Seattle Progressive Income Tax",
+         "description": "Public hearing begins at 9am. Arrive at 8:00 or 8:30 to get a seat and sign up to speak!\n\nA progressive income tax targeting wealthy households will be discussed for the first time at this special meeting of the Affordable Housing, Neighborhoods, and Finance Committee. After the public comment there will be a panel discussion including coalition representatives, tax experts, and the councilmembers on the committee.\n\nNow, when actual legislation is introduced, is when we can expect strong opposition to emerge and some councilmembers to start getting cold feet. So...\n\nLet's pack City Hall on May 31st to show our representatives on the City Council that Seattle residents want our city to take the lead in challenging our upside-down tax system, raising new revenue to protect against Trump budget cuts and to make Seattle a city for everyone, not just for the rich!\n\ntrumpproofseattle.org",
+         "place": {
+            "name": "Seattle City Hall",
+            "location": {
+               "city": "Seattle",
+               "country": "United States",
+               "latitude": 47.6051,
+               "longitude": -122.33,
+               "state": "WA",
+               "street": "600 4th Ave",
+               "zip": "98104"
+            },
+            "id": "111256662258810"
+         },
+         "id": "120849248492525"
+      }
+   ],
+   "paging": {
+      "cursors": {
+         "before": "QVFIUmR5YzE3cXRmOVZAYMll4bnRFcnlSQjdydGJDS21wb282S2duQUVZAc1g2QTV5V19zajIwV2J6VmloNV9QWnZABdVNQOEt0WmJOazlvc1dvSDhneUUyaXBn",
+         "after": "QVFIUmdTcWNldEZAoTzBFbFBOcV9hUVBYWEMxSlRkZAVlIZADNXT0RocEFtSGpFTzlDaTJUdERoMFB0OTdKdUlZAb2wxb2ljcEpNSXVqLXVaOTJUMUxBclFlbll3"
+      }
+   }
+}
