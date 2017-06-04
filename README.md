@@ -2,17 +2,9 @@
 
 `Facebook` is a simple [Grav][grav] Plugin that includes your Facebook page content to your Grav website. Plugin can be used to get any public Facebook page content.
 
-### Posts example
-
-![](assets/facebook_post_example.png)
-
 ### Events example
 
 ![](assets/facebook_events_example.png)
-
-### Album example
-
-![](assets/facebook_album_example.png)
 
 # Installation
 
